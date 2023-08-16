@@ -1,1 +1,2 @@
-# mindx-ex
+# mindx-exercises
+Lesson 1
